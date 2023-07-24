@@ -5,7 +5,7 @@
  * @array: array of int
  * @size: array size
  * Return: void
- * author : amine and salma
+ * author : salma and amine
  */
 void selection_sort(int *array, size_t size)
 {
