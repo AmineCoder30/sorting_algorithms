@@ -1,9 +1,9 @@
 # sorting_algorithms
 Alx sorting_algorithms project
 #Authors:
-Mohamed Amine
+MOHAMED Amine
 &
-Salma Abzou
+ABZOU Salma
 #date:
 23/07/2023
 
