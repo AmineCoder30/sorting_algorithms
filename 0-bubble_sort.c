@@ -1,11 +1,11 @@
 #include "sort.h"
 
 /**
- * bubble_sort - this func for sorting an array.
+ * bubble_sort - this func for sortTMing an array.
  * @array: input arrray
  * @size: array size
  * Return: void
- * amine mohamed & salma abzou
+ * amine mohamed & ABZOU Salma
  */
 void bubble_sort(int *array, size_t size)
 {
