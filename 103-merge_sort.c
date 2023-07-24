@@ -88,7 +88,7 @@ void aux_merge(int *ary, int lwer, int hger, int *bfr)
  * merge_sort -Sorts an aryof integers
  * in ascending order using the
  * fun_meg sort algorithm
- * @ary: ary
+ * @array: ary
  * @size: size
  * Return: void
  */

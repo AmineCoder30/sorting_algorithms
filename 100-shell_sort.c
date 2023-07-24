@@ -19,7 +19,7 @@ void shell_sort(int *array, size_t size)
  * sortShell - for prev function
  * @a: ar inp
  * @sz: array lenght
- * @n: the intervl
+ * @m: the intervl
  * Return: void
  */
 void sortShell(int *a, int sz, int m)

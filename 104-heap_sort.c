@@ -2,9 +2,9 @@
 #include <stdio.h>
 /**
  * number_sw - function to swap nums
- * @arr: array inp
- * @a: ind num one
- * @b: ind num tow
+ * @ay: array inp
+ * @f: ind num one
+ * @d: ind num tow
  * Return: void
  */
 void number_sw(int *ay, int f, int d)

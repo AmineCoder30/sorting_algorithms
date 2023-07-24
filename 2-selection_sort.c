@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * selection_sort - this func to 
+ * selection_sort - this func to
  * @array: array of int
  * @size: array size
  * Return: void

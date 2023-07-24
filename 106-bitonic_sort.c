@@ -1,9 +1,9 @@
 #include "sort.h"
 #include <stdio.h>
 /**
- * bt_print - prints the array 
- * @arr: array inp
- * @i: index num one
+ * bt_print - prints the array
+ * @array: array inp
+ * @j: index num one
  * @tml: last index
  * Return: void
  * amine mohamed and salma abzou

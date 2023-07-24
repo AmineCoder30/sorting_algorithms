@@ -17,7 +17,7 @@ void quick_sort(int *array, size_t size)
  * @a: ary input
  * @lw: first ele index
  * @higher: last ele indec
- * @size: arry lenght
+ * @sz: arry lenght
  * Return: void
  * amine mohamed &salma abzou
  */

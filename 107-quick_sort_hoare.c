@@ -7,7 +7,7 @@ void quick_sort_hoare(int *array, size_t size);
 
 /**
  * integerSw - function that swap all element of array
- * @alpah: ele num one
+ * @alpha: ele num one
  * @B: ele num tow
  * Return: void
  */
@@ -54,8 +54,8 @@ int partHr(int *arr, size_t size, int lt, int rt)
 
 /**
  * sortHr - to implement quick sort algo.
- * @array: array of int.
- * @size: array lenght.
+ * @arr: array of int.
+ * @sz: array lenght.
  * @lt: first index.
  * @rt: second index.
  * Return: void
